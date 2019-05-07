@@ -3,13 +3,16 @@
 /// @param quaternion
 ///
 /// Quaternion library
-/// 7th Nov 2016
+/// 5th May 2019
 /// @jujuadams
 
 var _vector     = argument0;
 var _quaternion = argument1;
 
-_vector = quaternion_multiply( _quaternion, [ 0,  _vector[0],  _vector[1],  _vector[2] ] );
-_vector = quaternion_multiply( _quaternion, [ 0, -_vector[1], -_vector[2], -_vector[3] ] );
+_vector = quaternion_multiply(_quaternion[0], _quaternion[1], _quaternion[2], _quaternion[3],
+                                           0,     _vector[0],     _vector[1],     _vector[2]);
 
-return [ _vector[1], _vector[2], _vector[3] ];
+_vector = quaternion_multiply(_quaternion[0], _quaternion[1], _quaternion[2], _quaternion[3],
+                                           0,    -_vector[1],    -_vector[2],    -_vector[3]);
+
+return [_vector[1], _vector[2], _vector[3]];
