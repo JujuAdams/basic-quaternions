@@ -1,12 +1,12 @@
 /// @desc Multiplies two quaternions together, adding one rotation onto another.
+/// @param r1
 /// @param x1
 /// @param y1
 /// @param z1
-/// @param r1
+/// @param r2
 /// @param x2
 /// @param y2
 /// @param z2
-/// @param r2
 ///
 /// Quaternion library
 /// 5th May 2019
