@@ -2,13 +2,17 @@
 /// 5th May 2019
 /// @jujuadams
 
+depth = -1000
+
 //Make a quaternion
-quaternion = quaternion_create();
+quaternion = new quaternion_create();
 
 //Define model offset/position
 vbf_cube_x = room_width/2;
-vbf_cube_y = room_height/2;
-vbf_cube_z = 0;
+vbf_cube_x = 600
+//vbf_cube_y = room_height/2;
+vbf_cube_y = 300
+vbf_cube_z = 1;
 vbf_cube_x_offset = 0.5;
 vbf_cube_y_offset = 0.5;
 vbf_cube_z_offset = 0.5;

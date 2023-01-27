@@ -26,7 +26,7 @@ matrix_set( matrix_world, matrix_build(-vbf_cube_x_offset, -vbf_cube_y_offset, -
                                        0, 0, 0,
                                        1, 1, 1));
 //Rotate the model
-matrix_set(matrix_world, matrix_multiply(matrix_get(matrix_world), quaternion_matrix(quaternion)));
+matrix_set(matrix_world, matrix_multiply(matrix_get(matrix_world), quaternion.get_matrix()));
 //Position and scale the model in the world
 matrix_set(matrix_world, matrix_multiply(matrix_get(matrix_world), matrix_build(vbf_cube_x + vbf_cube_x_offset, vbf_cube_y + vbf_cube_y_offset, vbf_cube_z + vbf_cube_z_offset,
                                                                                 0, 0, 0,
@@ -78,7 +78,7 @@ if ((_x != 0) || (_y != 0) || (_z != 0))
                                                                                     0, _y, _z,
                                                                                     1, 1, 1 )));
     //Rotate the model to match local transform
-    if (_local) matrix_set(matrix_world, matrix_multiply(matrix_get(matrix_world), quaternion_matrix(quaternion)));
+    if (_local) matrix_set(matrix_world, matrix_multiply(matrix_get(matrix_world), quaternion.get_matrix()));
     
     //Position and scale the model in the world
     matrix_set(matrix_world, matrix_multiply(matrix_get(matrix_world), matrix_build(vbf_cube_x + vbf_cube_x_offset, vbf_cube_y + vbf_cube_y_offset, vbf_cube_z + vbf_cube_z_offset,
