@@ -16,10 +16,6 @@ draw_set_valign(fa_bottom);
 draw_text(5, room_height, string(fps));
 draw_set_valign(fa_top);
 
-//Start z-buffer functions ("3D mode")
-gpu_set_ztestenable(true);
-gpu_set_zwriteenable(true);
-
 
 //Place the model the model at its origin
 matrix_set( matrix_world, matrix_build(-vbf_cube_x_offset, -vbf_cube_y_offset, -vbf_cube_z_offset,

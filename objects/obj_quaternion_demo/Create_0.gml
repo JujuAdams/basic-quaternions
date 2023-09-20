@@ -2,6 +2,10 @@
 /// 5th May 2019
 /// @jujuadams
 
+//Start z-buffer functions ("3D mode")
+gpu_set_ztestenable(true);
+gpu_set_zwriteenable(true);
+
 //Make a quaternion
 quaternion = quaternion_create();
 

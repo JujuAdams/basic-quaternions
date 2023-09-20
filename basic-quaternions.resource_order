@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"basic_quaternions","order":6,"path":"scripts/basic_quaternions/basic_quaternions.yy",},
+    {"name":"fnt_cambria16","order":4,"path":"fonts/fnt_cambria16/fnt_cambria16.yy",},
+    {"name":"obj_quaternion_demo","order":5,"path":"objects/obj_quaternion_demo/obj_quaternion_demo.yy",},
+    {"name":"rm_main","order":7,"path":"rooms/rm_main/rm_main.yy",},
+  ],
+}
