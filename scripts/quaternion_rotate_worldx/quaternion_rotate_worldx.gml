@@ -1,10 +1,7 @@
 /// @desc Rotates around the world's x-axis.
 /// @param quaternion
 /// @param angle
-///
-/// Quaternion library
-/// 5th May 2019
-/// @jujuadams
+
 function quaternion_rotate_worldx(argument0, argument1) {
 
 	return quaternion_multiply(dcos(argument1/2), dsin(argument1/2), 0, 0,

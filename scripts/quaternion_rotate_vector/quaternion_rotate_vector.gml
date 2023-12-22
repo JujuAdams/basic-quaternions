@@ -1,10 +1,7 @@
 /// @desc Rotates a 3D vector (3-element 1D array) by a quaternion.
 /// @param vector
 /// @param quaternion
-///
-/// Quaternion library
-/// 5th May 2019
-/// @jujuadams
+
 function quaternion_rotate_vector(argument0, argument1) {
 
 	var _vector     = argument0;

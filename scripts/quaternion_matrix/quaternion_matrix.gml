@@ -1,9 +1,6 @@
 /// @desc Makes a 4x4 column-major transform matrix from a quaternion.
 /// @param quaternion
-///
-/// Quaternion library
-/// 5th May 2019
-/// @jujuadams
+
 function quaternion_matrix(argument0) {
 
 	var _quaternion = argument0;

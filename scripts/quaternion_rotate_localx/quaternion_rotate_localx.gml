@@ -1,10 +1,7 @@
 /// @desc Rotates around the model's local x-axis.
 /// @param quaternion
 /// @param angle
-///
-/// Quaternion library
-/// 5th May 2019
-/// @jujuadams
+
 function quaternion_rotate_localx(argument0, argument1) {
 
 	return quaternion_multiply(argument0[0], argument0[1], argument0[2], argument0[3],

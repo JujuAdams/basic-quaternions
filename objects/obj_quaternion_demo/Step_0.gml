@@ -1,7 +1,3 @@
-/// Quaternion library
-/// 5th May 2019
-/// @jujuadams
-
 //Handle local rotation
 if (keyboard_check(ord("S"))) quaternion = quaternion_rotate_localx(quaternion,  3) else
 if (keyboard_check(ord("W"))) quaternion = quaternion_rotate_localx(quaternion, -3) else

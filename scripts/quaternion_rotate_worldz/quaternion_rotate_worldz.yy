@@ -5,7 +5,7 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "quaternion",
-    "path": "folders/Scripts/quaternion.yy",
+    "name": "Quaternions",
+    "path": "folders/Quaternions.yy",
   },
 }

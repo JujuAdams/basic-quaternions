@@ -1,9 +1,4 @@
-/// Quaternion library
-/// 5th May 2019
-/// @jujuadams
-
 //Draw debug text
-draw_set_font(fnt_cambria16);
 draw_set_colour(c_white);
 draw_arrow(50, 50, 100,  50, 12);
 draw_arrow(50, 50,  50, 100, 12);

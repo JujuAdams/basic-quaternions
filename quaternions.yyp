@@ -13,9 +13,8 @@
     {"id":{"name":"quaternion_rotate_worldy","path":"scripts/quaternion_rotate_worldy/quaternion_rotate_worldy.yy",},"order":7,},
     {"id":{"name":"quaternion_rotate_worldz","path":"scripts/quaternion_rotate_worldz/quaternion_rotate_worldz.yy",},"order":8,},
     {"id":{"name":"quaternion_rotate_vector","path":"scripts/quaternion_rotate_vector/quaternion_rotate_vector.yy",},"order":9,},
-    {"id":{"name":"fnt_cambria16","path":"fonts/fnt_cambria16/fnt_cambria16.yy",},"order":0,},
-    {"id":{"name":"obj_quaternion_demo","path":"objects/obj_quaternion_demo/obj_quaternion_demo.yy",},"order":0,},
-    {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":0,},
+    {"id":{"name":"obj_quaternion_demo","path":"objects/obj_quaternion_demo/obj_quaternion_demo.yy",},"order":6,},
+    {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":7,},
   ],
   "Options": [
     {"name":"HTML5","path":"options/html5/options_html5.yy",},
@@ -39,11 +38,7 @@
     {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
   ],
   "Folders": [
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy","order":1,},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy","order":2,},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy","order":3,},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy","order":0,},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"quaternion","folderPath":"folders/Scripts/quaternion.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Quaternions","folderPath":"folders/Quaternions.yy","order":0,},
   ],
   "AudioGroups": [
     {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},

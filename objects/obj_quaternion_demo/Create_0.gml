@@ -1,7 +1,3 @@
-/// Quaternion library
-/// 5th May 2019
-/// @jujuadams
-
 //Make a quaternion
 quaternion = quaternion_create();
 
