@@ -16,7 +16,7 @@
         "720f26c1-772f-4910-abf3-433020b1d279"
     ],
     "filterType": "GMScript",
-    "folderName": "quaternion",
+    "folderName": "Basic Quaternions",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

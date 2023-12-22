@@ -154,7 +154,7 @@
             "Key": "7e05f615-fbd3-4028-a8f8-b1380351c845",
             "Value": {
                 "id": "73da218e-fdf7-42a7-b6ec-16f4dbf6f08b",
-                "resourcePath": "rooms\\rm_main\\rm_main.yy",
+                "resourcePath": "rooms\\rMain\\rMain.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -290,7 +290,7 @@
             "Key": "d79905af-fb57-408b-a6a4-8ba2af89d591",
             "Value": {
                 "id": "5e938699-1b6b-47d4-ade3-7c98ddaae4cd",
-                "resourcePath": "objects\\obj_quaternion_demo\\obj_quaternion_demo.yy",
+                "resourcePath": "objects\\oTest\\oTest.yy",
                 "resourceType": "GMObject"
             }
         },

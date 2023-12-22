@@ -2,7 +2,7 @@
     "id": "d79905af-fb57-408b-a6a4-8ba2af89d591",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_quaternion_demo",
+    "name": "oTest",
     "eventList": [
         {
             "id": "8c26a966-5681-4726-b633-afa99e748f8c",

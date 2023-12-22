@@ -11,7 +11,7 @@ draw_arrow(50, 50,  20,  20, 12);
 draw_text(105, 40, "X" );
 draw_text(45, 105, "Y" );
 draw_text(5, 5, "Z");
-draw_text(5, 150, "Quaternion library\n5th May 2019\n@jujuadams\n\nWASDQE - rotate locally\nIJKLUO - rotate in world");
+draw_text(5, 150, "Basic Quaternions\nv" + __BASIC_QUATERNIONS_VERSION + "   " + __BASIC_QUATERNIONS_DATE + "\n@jujuadams\n\nWASDQE - rotate locally\nIJKLUO - rotate in world");
 draw_set_valign(fa_bottom);
 draw_text(5, room_height, string(fps));
 draw_set_valign(fa_top);
