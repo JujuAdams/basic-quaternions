@@ -11,8 +11,13 @@
 /// Quaternion library
 /// 5th May 2019
 /// @jujuadams
+function quaternion_multiply(argument0, argument1, argument2, argument3, argument4, argument5, argument6, argument7) {
 
-return [argument0*argument4 - argument1*argument5 - argument2*argument6 - argument3*argument7,
-        argument0*argument5 + argument1*argument4 + argument2*argument7 - argument3*argument6,
-        argument0*argument6 + argument2*argument4 + argument3*argument5 - argument1*argument7,
-        argument0*argument7 + argument3*argument4 + argument1*argument6 - argument2*argument5];
+	return [argument0*argument4 - argument1*argument5 - argument2*argument6 - argument3*argument7,
+	        argument0*argument5 + argument1*argument4 + argument2*argument7 - argument3*argument6,
+	        argument0*argument6 + argument2*argument4 + argument3*argument5 - argument1*argument7,
+	        argument0*argument7 + argument3*argument4 + argument1*argument6 - argument2*argument5];
+
+
+
+}

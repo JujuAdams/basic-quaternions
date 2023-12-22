@@ -3,5 +3,10 @@
 /// Quaternion library
 /// 5th May 2019
 /// @jujuadams
+function quaternion_create() {
 
-return [1.0, 0.0, 0.0, 0.0000001];
+	return [1.0, 0.0, 0.0, 0.0000001];
+
+
+
+}
