@@ -1,5 +1,11 @@
 <h1 align="center">Basic Quaternions</h1>
 
-### [Juju Adams](https://www.jujuadams.com/)
+<p align="center">Basic quaternion implementation for GameMaker LTS 2022</p>
+
+<p align="center"><a href="https://github.com/JujuAdams/basic-quaternions/releases/">Download the .yymps</a></p>
+
+<p align="center">Chat about this library on the <a href="https://discord.gg/e9wrvnCWkK">Discord server</a></p>
+
+&nbsp;
 
 Basic quaternion implementation. Includes local and world rotations, turning a quaternion into a 4x4 transform matrix, and transforming a vector using a quaternion.
