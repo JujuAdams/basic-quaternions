@@ -1,10 +1,12 @@
 {
-  "resourceType": "GMShader",
-  "resourceVersion": "1.0",
-  "name": "__shdUgg",
-  "type": 1,
-  "parent": {
-    "name": "(System)",
-    "path": "folders/Ugg/(System).yy",
+  "$GMShader":"",
+  "%Name":"__shdUgg",
+  "name":"__shdUgg",
+  "parent":{
+    "name":"(System)",
+    "path":"folders/Ugg/(System).yy",
   },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
 }

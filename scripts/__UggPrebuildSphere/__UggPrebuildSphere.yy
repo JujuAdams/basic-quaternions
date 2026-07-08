@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "__UggPrebuildSphere",
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "(System)",
-    "path": "folders/Ugg/(System).yy",
+  "$GMScript":"v1",
+  "%Name":"__UggPrebuildSphere",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__UggPrebuildSphere",
+  "parent":{
+    "name":"(System)",
+    "path":"folders/Ugg/(System).yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

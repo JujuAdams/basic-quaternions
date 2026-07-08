@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "__UggPrebuildCylinder",
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "(System)",
-    "path": "folders/Ugg/(System).yy",
+  "$GMScript":"v1",
+  "%Name":"__UggPrebuildCylinder",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__UggPrebuildCylinder",
+  "parent":{
+    "name":"(System)",
+    "path":"folders/Ugg/(System).yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

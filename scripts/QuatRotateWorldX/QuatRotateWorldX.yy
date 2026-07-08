@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "QuatRotateWorldX",
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Basic Quaternions",
-    "path": "folders/Basic Quaternions.yy",
+  "$GMScript":"v1",
+  "%Name":"QuatRotateWorldX",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"QuatRotateWorldX",
+  "parent":{
+    "name":"Basic Quaternions",
+    "path":"folders/Basic Quaternions.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

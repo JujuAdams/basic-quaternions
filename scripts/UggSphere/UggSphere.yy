@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "UggSphere",
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Ugg",
-    "path": "folders/Ugg.yy",
+  "$GMScript":"v1",
+  "%Name":"UggSphere",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"UggSphere",
+  "parent":{
+    "name":"Ugg",
+    "path":"folders/Ugg.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

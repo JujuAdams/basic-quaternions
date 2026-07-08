@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "QuatAngleTo",
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Basic Quaternions",
-    "path": "folders/Basic Quaternions.yy",
+  "$GMScript":"v1",
+  "%Name":"QuatAngleTo",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"QuatAngleTo",
+  "parent":{
+    "name":"Basic Quaternions",
+    "path":"folders/Basic Quaternions.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

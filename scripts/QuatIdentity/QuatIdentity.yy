@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "QuatIdentity",
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Basic Quaternions",
-    "path": "folders/Basic Quaternions.yy",
+  "$GMScript":"v1",
+  "%Name":"QuatIdentity",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"QuatIdentity",
+  "parent":{
+    "name":"Basic Quaternions",
+    "path":"folders/Basic Quaternions.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
