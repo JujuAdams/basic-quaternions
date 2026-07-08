@@ -57,6 +57,7 @@
     {"id":{"name":"QuatRotateWorldY","path":"scripts/QuatRotateWorldY/QuatRotateWorldY.yy",},},
     {"id":{"name":"QuatRotateWorldZ","path":"scripts/QuatRotateWorldZ/QuatRotateWorldZ.yy",},},
     {"id":{"name":"QuatSlerp","path":"scripts/QuatSlerp/QuatSlerp.yy",},},
+    {"id":{"name":"QuatToEulerAngles","path":"scripts/QuatToEulerAngles/QuatToEulerAngles.yy",},},
     {"id":{"name":"UggAABB","path":"scripts/UggAABB/UggAABB.yy",},},
     {"id":{"name":"UggCylinder","path":"scripts/UggCylinder/UggCylinder.yy",},},
     {"id":{"name":"UggPlane","path":"scripts/UggPlane/UggPlane.yy",},},
