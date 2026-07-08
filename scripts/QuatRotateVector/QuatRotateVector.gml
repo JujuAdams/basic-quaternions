@@ -18,5 +18,6 @@ function QuatRotateVector(_quat, _x, _y, _z, _resultArray = [])
     _resultArray[@ 0] = _x + _qw*_tx + _qy*_tz - _qz*_ty;
     _resultArray[@ 1] = _y + _qw*_ty + _qz*_tx - _qx*_tz;
     _resultArray[@ 2] = _z + _qw*_tz + _qx*_ty - _qy*_tx;
+    
     return _resultArray;
 }
