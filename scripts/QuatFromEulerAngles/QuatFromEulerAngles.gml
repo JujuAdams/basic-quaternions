@@ -16,6 +16,6 @@ function QuatFromEulerAngles(_xAngle, _yAngle, _zAngle)
     
     return [ _sinX*_cosY*_cosZ + _cosX*_sinY*_sinZ,
              _cosX*_sinY*_cosZ - _sinX*_cosY*_sinZ,
-             _cosX*_cosY*_sinZ - _sinX*_sinY*_cosZ,
-             _cosX*_cosY*_cosZ + _sinX*_sinY*_sinZ ];
+             _cosX*_cosY*_sinZ + _sinX*_sinY*_cosZ,
+             _cosX*_cosY*_cosZ - _sinX*_sinY*_sinZ ];
 }
