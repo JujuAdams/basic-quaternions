@@ -11,6 +11,8 @@
   "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Basic Quaternions","folderPath":"folders/Basic Quaternions.yy","name":"Basic Quaternions","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Builders","folderPath":"folders/Basic Quaternions/Builders.yy","name":"Builders","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Rotation","folderPath":"folders/Basic Quaternions/Rotation.yy","name":"Rotation","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Ugg","folderPath":"folders/Ugg.yy","name":"Ugg","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"(System)","folderPath":"folders/Ugg/(System).yy","name":"(System)","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],

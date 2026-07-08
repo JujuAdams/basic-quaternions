@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"QuatFromEulerAngles",
   "parent":{
-    "name":"Basic Quaternions",
-    "path":"folders/Basic Quaternions.yy",
+    "name":"Builders",
+    "path":"folders/Basic Quaternions/Builders.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"QuatRotateWorldY",
   "parent":{
-    "name":"Basic Quaternions",
-    "path":"folders/Basic Quaternions.yy",
+    "name":"Rotation",
+    "path":"folders/Basic Quaternions/Rotation.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",
