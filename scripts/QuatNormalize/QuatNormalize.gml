@@ -9,7 +9,7 @@ function QuatNormalize(_quat, _resultQuat = [])
     var _w = _quat[3];
     
     var _length = sqrt(_x*_x + _y*_y + _z*_z + _w*_w);
-    if (_length == 0) return QuatIdentity();
+    if (_length == 0) return [0, 0, 0, 1];
     
     var _inverseLength = 1/_length;
     _resultQuat[@ 0] = _x*_inverseLength;
