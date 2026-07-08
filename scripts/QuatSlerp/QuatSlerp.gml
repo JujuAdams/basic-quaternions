@@ -1,4 +1,4 @@
-function QuatSlerp(_a, _b, _t)
+function QuatSlerp(_a, _b, _t, _resultArray = [])
 {
     if (_t == 0) return QuatDuplicate(_a);
     if (_t == 1) return QuatDuplicate(_b);
@@ -46,5 +46,9 @@ function QuatSlerp(_a, _b, _t)
         }
     }
     
-    return [_ax, _ay, _az, _aw];
+    _resultArray[@ 0] = _ax;
+    _resultArray[@ 1] = _ay;
+    _resultArray[@ 2] = _az;
+    _resultArray[@ 3] = _aw;
+    return _resultArray;
 }
