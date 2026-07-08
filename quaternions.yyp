@@ -47,6 +47,7 @@
     {"id":{"name":"QuatMultiply","path":"scripts/QuatMultiply/QuatMultiply.yy",},},
     {"id":{"name":"QuatNew","path":"scripts/QuatNew/QuatNew.yy",},},
     {"id":{"name":"QuatNormalize","path":"scripts/QuatNormalize/QuatNormalize.yy",},},
+    {"id":{"name":"QuatRandom","path":"scripts/QuatRandom/QuatRandom.yy",},},
     {"id":{"name":"QuatRotateLocalX","path":"scripts/QuatRotateLocalX/QuatRotateLocalX.yy",},},
     {"id":{"name":"QuatRotateLocalY","path":"scripts/QuatRotateLocalY/QuatRotateLocalY.yy",},},
     {"id":{"name":"QuatRotateLocalZ","path":"scripts/QuatRotateLocalZ/QuatRotateLocalZ.yy",},},
