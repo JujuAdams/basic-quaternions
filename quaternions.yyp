@@ -38,6 +38,7 @@
     {"id":{"name":"QuatEqual","path":"scripts/QuatEqual/QuatEqual.yy",},},
     {"id":{"name":"QuatFromAxisAngle","path":"scripts/QuatFromAxisAngle/QuatFromAxisAngle.yy",},},
     {"id":{"name":"QuatFromEulerAngles","path":"scripts/QuatFromEulerAngles/QuatFromEulerAngles.yy",},},
+    {"id":{"name":"QuatFromRotationMatrix","path":"scripts/QuatFromRotationMatrix/QuatFromRotationMatrix.yy",},},
     {"id":{"name":"QuatFromVectors","path":"scripts/QuatFromVectors/QuatFromVectors.yy",},},
     {"id":{"name":"QuatGetAxisAngle","path":"scripts/QuatGetAxisAngle/QuatGetAxisAngle.yy",},},
     {"id":{"name":"QuatGetRotationMatrix","path":"scripts/QuatGetRotationMatrix/QuatGetRotationMatrix.yy",},},

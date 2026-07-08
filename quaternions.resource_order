@@ -15,6 +15,7 @@
     {"name":"QuatEqual","order":4,"path":"scripts/QuatEqual/QuatEqual.yy",},
     {"name":"QuatFromAxisAngle","order":5,"path":"scripts/QuatFromAxisAngle/QuatFromAxisAngle.yy",},
     {"name":"QuatFromEulerAngles","order":6,"path":"scripts/QuatFromEulerAngles/QuatFromEulerAngles.yy",},
+    {"name":"QuatFromRotationMatrix","order":10,"path":"scripts/QuatFromRotationMatrix/QuatFromRotationMatrix.yy",},
     {"name":"QuatFromVectors","order":7,"path":"scripts/QuatFromVectors/QuatFromVectors.yy",},
     {"name":"QuatGetAxisAngle","order":8,"path":"scripts/QuatGetAxisAngle/QuatGetAxisAngle.yy",},
     {"name":"QuatGetRotationMatrix","order":9,"path":"scripts/QuatGetRotationMatrix/QuatGetRotationMatrix.yy",},
